@@ -9,4 +9,8 @@ This was a new domain for Computer reasoning I was not familiar with. I was intr
 
 I was only to tweak and work with the ArcAgent class and define my methods within that. 
 
+1. feed Forward Neural Network
+2. economic_indicators.csv could have been used to understand temporal features and time series data
+3. better preprocessing and use of simpe ML models could have better improved the model performance.
+
 
